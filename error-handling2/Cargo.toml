@@ -1,0 +1,10 @@
+[package]
+name = "error-handling2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4.14"
+env_logger = "0.10.0"
+thiserror = "1.0"
+anyhow = "1.0"
